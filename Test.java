@@ -4,4 +4,8 @@ public class Test{
 		System.out.println("aaa");
 	}
 
+
+	public void test123(){
+		System.out.println("adfxvxcv");
+	}
 }
