@@ -2,6 +2,7 @@ public class Test{
 
 	public void test123123(){
 		System.out.println("adfxvxcv");
+		System.out.println("aasdfxc2323zxca");
 	}
 
 	public void test(){
@@ -13,13 +14,5 @@ public class Test{
 		System.out.println("aasdfxc2323zxca");
 		System.out.println("aasdfxczxca");
 	}
-	
-	public void testsdad123f(){
-		System.out.println("aasdfxc2323zxca");
-	}
 
-
-	public void test123(){
-		System.out.println("adfxvxcv");
-	}
 }
